@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Website</title>
+</head>
+
+<body>
+    <header>
+        <h1>Your Name Reda</h1>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Hello, I'm Reda. Welcome to my personal website!</p>
+    </section>
+
+    <section>
+        <img src="your_image_url.jpg" alt="Your Name">
+    </section>
+
+    <section>
+        <h2>Connect with Me</h2>
+        <p>Find me on <a href="https://www.facebook.com/rada.nadar.9?mibextid=ZbWKwL" target="_blank">Facebook</a>.</p>
+    </section>
+</body>
+
+</html>
